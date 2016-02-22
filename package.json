@@ -1,0 +1,24 @@
+{
+  "name": "my-esformatter-settings",
+  "version": "0.0.1",
+  "description": "format-standard",
+  "scripts": {
+    "format": "esformatter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drathal/my-esformatter-settings.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "esformatter": "^0.9.1",
+    "esformatter-braces": "^1.2.1",
+    "esformatter-collapse-objects": "^0.5.1",
+    "esformatter-dot-notation": "^1.3.1",
+    "esformatter-eol-last": "^1.0.0",
+    "esformatter-jsx": "^4.1.3",
+    "esformatter-literal-notation": "^1.0.1",
+    "esformatter-quotes": "^1.0.3",
+    "esformatter-spaced-lined-comment": "^2.0.1"
+  }
+}
